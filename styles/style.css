@@ -1,0 +1,17 @@
+html {
+    font-size: 10px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: 'Coustard', serif;/* здесь должно быть имя шрифта из Google fonts*/
+  }
+h1{
+    font-size: 60px;
+    text-align: center;
+    color: blue;
+}
+p,li{
+    font-size: 17px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+li{
+    color:rgb(255, 0, 0);
+}
